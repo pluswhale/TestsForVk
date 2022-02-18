@@ -1,0 +1,436 @@
+INFO	2022-01-27 14:28:04,727	7934	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 14:28:06,428	9635	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 14:28:06,618	9825	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 14:28:09,910	13117	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 14:28:17,366	20573	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 15:09:48,499	7689	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:09:48,906	8096	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:09:49,147	8337	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:09:52,495	11685	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:09:59,968	19158	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 15:14:56,837	6893	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:14:57,265	7321	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:14:57,475	7531	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:15:00,789	10845	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:15:08,241	18297	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 15:22:52,073	7207	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:22:52,456	7590	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:22:52,643	7777	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:22:55,967	11101	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 15:25:22,675	7380	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:25:23,082	7787	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:25:23,272	7977	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:25:26,609	11314	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 15:34:34,552	7220	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:34:34,941	7609	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:34:35,147	7815	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:34:38,474	11142	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:34:47,968	20636	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 15:36:49,387	7404	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:36:49,768	7785	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:36:49,962	7979	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:36:53,298	11315	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 15:37:02,817	20834	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 20:49:53,610	7812	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:49:54,052	8254	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:49:54,252	8454	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:49:57,604	11806	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:50:07,077	21279	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 20:52:30,669	7289	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:52:31,133	7753	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:52:31,323	7943	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:52:34,616	11236	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:52:44,084	20704	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 20:53:55,025	7239	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:53:56,840	9054	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:53:57,048	9262	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:54:00,376	12590	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:54:09,815	22029	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-27 20:55:37,082	7592	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:55:37,509	8019	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:55:37,705	8215	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:55:41,027	11537	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-27 20:55:50,505	21015	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 14:29:51,647	9974	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:29:52,171	10498	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:29:52,368	10695	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:29:55,681	14008	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:30:05,121	23448	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 14:42:09,610	9960	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:42:09,995	10345	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:42:10,189	10539	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+ERROR	2022-01-31 14:42:10,290	10640	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:42:22,032	22382	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:53:08,599	4286	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 14:53:43,786	9896	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:53:44,298	10408	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:53:44,503	10613	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+ERROR	2022-01-31 14:53:44,627	10737	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:53:46,929	13039	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 14:53:56,369	22479	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:01:11,925	10104	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:01:12,314	10493	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:01:12,524	10703	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:01:12,634	10813	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:01:14,863	13042	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:01:24,276	22455	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:07:25,147	10127	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:07:25,551	10531	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:07:25,760	10740	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:07:25,860	10840	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:07:28,087	13067	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:07:37,528	22508	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:10:57,856	10088	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:10:58,251	10483	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:10:58,463	10695	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:10:58,564	10796	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:11:00,791	13023	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:11:10,241	22473	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:13:34,799	10173	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:13:35,183	10557	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:13:35,388	10762	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:13:35,486	10860	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:13:37,710	13084	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:13:47,129	22503	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:14:29,101	9756	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:14:29,484	10139	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:14:29,689	10344	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:14:29,819	10474	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:14:32,061	12716	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:15:04,014	9740	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:15:04,394	10120	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:15:04,602	10328	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:15:04,699	10425	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:15:06,966	12692	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:15:16,384	22110	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:16:09,831	9913	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:16:11,645	11727	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:16:11,828	11910	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:16:11,928	12010	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:16:14,234	14316	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 15:17:20,816	6619	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:17:21,208	7011	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:17:21,388	7191	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:17:21,483	7286	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 15:17:23,783	9586	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:12:24,081	7351	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:12:24,559	7829	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:12:24,785	8055	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:12:24,888	8158	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:12:27,162	10432	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:12:36,547	19817	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:17:45,295	6954	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:17:45,678	7337	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:17:45,891	7550	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:17:46,006	7665	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:17:48,302	9961	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:17:57,694	19353	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:19:55,203	6719	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:19:55,598	7114	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:19:55,804	7320	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:19:55,906	7422	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:19:58,155	9671	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:20:07,631	19147	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:22:29,020	6663	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:22:29,994	7637	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:22:30,198	7841	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:22:30,299	7942	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:22:32,557	10200	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:22:41,997	19640	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:25:12,673	6647	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:25:13,048	7022	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:25:13,296	7270	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:25:13,395	7369	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:25:15,651	9625	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:25:25,114	19088	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:27:13,656	6707	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:27:14,088	7139	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:27:14,294	7345	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:27:14,399	7450	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:27:16,662	9713	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:27:26,113	19164	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:37:41,296	6885	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:37:41,676	7265	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:37:41,891	7480	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:37:41,996	7585	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:37:44,254	9843	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:37:53,716	19305	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:42:27,401	6911	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:42:27,965	7475	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:42:28,169	7679	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:42:28,269	7779	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:42:30,483	9993	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:42:39,925	19435	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:44:03,469	6754	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:44:03,927	7212	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:44:04,131	7416	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:44:04,229	7514	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:44:06,490	9775	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:44:15,955	19240	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:46:16,416	6819	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:46:16,442	6845	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:46:16,652	7055	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:47:13,003	6807	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:47:13,428	7232	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:47:13,643	7447	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:47:13,742	7546	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:47:15,962	9766	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:47:25,418	19222	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 16:47:39,541	33345	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:49:31,474	6819	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:49:31,870	7215	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:49:32,074	7419	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:49:32,176	7521	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:49:34,429	9774	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:49:43,901	19246	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:50:46,257	6620	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:50:46,642	7005	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:50:46,845	7208	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:50:46,948	7311	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:50:49,188	9551	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:50:58,639	19002	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 16:51:53,603	73966	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:55:35,596	7312	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:55:36,031	7747	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:55:36,240	7956	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:55:36,350	8066	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:55:38,641	10357	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:55:48,074	19790	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 16:58:28,906	6800	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:58:29,423	7317	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:58:29,633	7527	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:58:29,749	7643	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:58:31,993	9887	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 16:58:41,456	19350	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 17:00:41,898	139792	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 17:01:07,226	6946	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 17:01:08,247	7967	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 17:01:08,458	8178	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 17:01:08,564	8284	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 17:01:10,843	10563	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 17:01:20,290	20010	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 17:02:20,250	79970	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 18:28:05,450	7082	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:28:05,857	7489	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:28:06,061	7693	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:28:06,163	7795	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:28:08,428	10060	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 18:29:16,242	77874	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 18:30:05,510	6591	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:30:05,918	6999	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:30:06,127	7208	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:30:06,233	7314	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:30:08,474	9555	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 18:31:18,454	79535	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-01-31 18:34:59,030	6869	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:34:59,446	7285	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:34:59,660	7499	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:34:59,760	7599	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-01-31 18:35:01,993	9832	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-01-31 18:36:11,181	79020	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 12:18:53,230	7224	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:18:53,340	7334	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:18:53,554	7548	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 12:19:42,650	6693	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:19:42,760	6803	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:19:42,979	7022	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 12:19:59,277	6745	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:19:59,674	7142	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:19:59,886	7354	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:19:59,991	7459	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:20:02,263	9731	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 12:21:12,158	79626	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 12:31:09,935	7141	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:31:10,533	7739	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:31:10,780	7986	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:31:10,921	8127	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:31:13,154	10360	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 12:32:23,433	80639	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 12:34:25,193	7284	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:34:25,571	7662	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:34:25,802	7893	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:34:25,909	8000	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:34:28,158	10249	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 12:35:37,613	79704	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 12:36:00,940	6692	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:36:01,347	7099	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:36:01,578	7330	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:36:01,694	7446	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:36:03,923	9675	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 12:36:13,285	19037	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 12:37:12,677	78429	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 13:33:11,060	7886	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:33:12,298	9124	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:33:12,547	9373	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:33:15,086	11912	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:33:24,581	21407	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 13:34:23,318	80144	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 13:42:31,055	7346	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:42:32,262	8553	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:42:32,490	8781	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:42:32,777	9068	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:42:35,012	11303	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 13:42:44,564	20855	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 13:43:43,081	79372	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 14:13:45,871	7821	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 14:13:46,272	8222	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 14:13:46,500	8450	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 14:13:46,794	8744	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 14:13:49,029	10979	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 14:13:58,563	20513	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 14:14:56,880	78830	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:03:42,674	7727	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:03:44,487	9540	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:03:44,712	9765	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:03:45,007	10060	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:03:47,227	12280	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:03:56,759	21812	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:04:54,773	79826	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:09:02,648	7389	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:09:03,421	8162	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:09:03,641	8382	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:09:03,908	8649	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:09:06,206	10947	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:09:15,661	20402	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:10:14,992	79733	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:18:32,658	7314	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:18:33,062	7718	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:18:33,285	7941	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:18:33,561	8217	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:18:35,819	10475	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:19:43,091	77747	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:22:01,378	7008	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:22:01,763	7393	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:22:01,974	7604	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:22:02,267	7897	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:22:04,539	10169	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:23:12,129	77759	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:23:47,524	8746	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:23:47,916	9138	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:23:48,129	9351	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:23:48,432	9654	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:23:50,678	11900	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:24:58,766	79988	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:25:45,849	7207	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:25:46,226	7584	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:25:46,438	7796	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:25:46,743	8101	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:25:48,986	10344	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:26:58,093	79451	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:27:18,601	6859	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:27:18,986	7244	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:27:19,212	7470	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:27:19,508	7766	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:27:21,781	10039	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:28:30,049	78307	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:30:36,124	7609	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:30:36,521	8006	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:30:36,743	8228	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:30:37,022	8507	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:30:39,281	10766	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:31:45,997	77482	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:32:14,247	6754	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:32:15,429	7936	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:32:15,642	8149	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:32:15,943	8450	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:32:18,198	10705	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:33:49,378	9294	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:33:49,779	9695	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:33:49,985	9901	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:33:50,277	10193	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:33:52,531	12447	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:34:02,070	21986	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:35:01,318	81234	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:38:33,912	7149	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:38:34,369	7606	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:38:34,588	7825	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:38:34,903	8140	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:38:37,162	10399	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:38:46,678	19915	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:39:45,224	78461	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:41:31,844	7515	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:41:32,490	8161	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:41:32,703	8374	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:41:32,998	8669	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:41:35,245	10916	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:41:44,762	20433	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:42:44,686	6881	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:42:45,078	7273	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:42:45,290	7485	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:42:45,573	7768	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:42:47,831	10026	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:45:14,543	7343	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:45:14,923	7723	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:45:15,148	7948	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:45:15,439	8239	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:45:17,682	10482	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:46:18,986	7300	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:46:19,541	7855	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:46:19,746	8060	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:46:20,029	8343	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:46:22,289	10603	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:46:31,811	20125	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:47:33,105	81419	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-01 15:49:22,167	6769	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:49:22,690	7292	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:49:22,901	7503	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:49:23,224	7826	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:49:25,489	10091	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-01 15:49:34,951	19553	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-01 15:50:37,384	81986	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-15 15:07:50,546	6793	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-15 15:07:51,095	7342	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-15 15:07:51,297	7544	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-15 15:07:51,605	7852	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-15 15:07:53,881	10128	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-15 15:08:03,293	19540	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-15 15:09:04,867	81114	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-16 14:41:06,153	7301	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:41:10,077	11225	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:41:10,305	11453	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:41:10,573	11721	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:41:12,810	13958	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:41:23,270	24418	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-16 14:42:23,588	84736	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-16 14:47:58,528	6138	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:47:58,900	6510	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:47:59,122	6732	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:47:59,426	7036	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:48:01,656	9266	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:48:11,078	18688	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-16 14:49:11,586	79196	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-16 14:51:18,158	6447	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:51:18,530	6819	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:51:18,741	7030	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:51:19,033	7322	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:51:21,289	9578	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 14:51:30,719	19008	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-16 14:52:30,778	79067	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-16 15:16:19,246	6749	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:16:19,723	7226	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:16:20,010	7513	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:16:20,340	7843	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:16:22,665	10168	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:16:32,081	19584	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-16 15:17:36,916	84419	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-16 15:19:26,248	6747	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:19:26,725	7224	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:19:26,991	7490	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:19:27,303	7802	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:19:29,564	10063	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-16 15:19:38,923	19422	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-16 15:20:41,843	82342	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
+INFO	2022-02-18 13:42:58,288	5525	vk.automation.test.CheckDataFromExcel	[main]	I'm loading ClassName : class vk.automation.test.CheckDataFromExcel
+INFO	2022-02-18 13:43:10,418	4601	vk.automation.test.CheckDataFromExcel	[main]	I'm loading ClassName : class vk.automation.test.CheckDataFromExcel
+WARN	2022-02-18 13:43:10,910	5093	vk.automation.test.CheckDataFromExcel	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.CheckDataFromExcel
+WARN	2022-02-18 13:43:11,136	5319	vk.automation.test.CheckDataFromExcel	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.CheckDataFromExcel
+INFO	2022-02-18 13:46:07,713	7077	vk.automation.test.CheckDataFromExcel	[main]	I'm loading ClassName : class vk.automation.test.CheckDataFromExcel
+WARN	2022-02-18 13:46:09,241	8605	vk.automation.test.CheckDataFromExcel	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.CheckDataFromExcel
+WARN	2022-02-18 13:46:09,459	8823	vk.automation.test.CheckDataFromExcel	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.CheckDataFromExcel
+INFO	2022-02-18 13:46:55,267	6244	vk.automation.test.MainTest	[main]	I'm loading ClassName : class vk.automation.test.MainTest
+WARN	2022-02-18 13:46:58,204	9181	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-18 13:46:58,421	9398	vk.automation.test.MainTest	[main]	Check it after execution. It may be not full list ClassName : class vk.automation.test.MainTest
+WARN	2022-02-18 13:46:58,684	9661	vk.automation.test.MainTest	[main]	It's work, but two element not visible at the main page - Stickers, and Orders.  ClassName : class vk.automation.test.MainTest
+WARN	2022-02-18 13:47:00,907	11884	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+WARN	2022-02-18 13:47:10,349	21326	vk.automation.test.MainTest	[main]	It works ClassName : class vk.automation.test.MainTest
+FATAL	2022-02-18 13:48:13,306	84283	vk.automation.test.MainTest	[main]	It doesn't work because not all elements pass for test ClassName : class vk.automation.test.MainTest
